@@ -641,6 +641,7 @@ $togglerMenu: #aaaaaa;
         display: inline-block;
         .projectImage {
           width: 100%;
+          object-fit: cover;
         }
         .projectTitles {
           margin: 30px 0;
