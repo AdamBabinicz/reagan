@@ -42,6 +42,7 @@ const AboutInfo = () => {
                 className="links"
                 href="https://www.youtube.com/watch?v=Pgs-LaWyUJI"
                 target="_blank"
+                rel="noopener noreferrer"
               >
                 <YouTubeIcon className="iconSvg" />
               </a>
@@ -49,6 +50,7 @@ const AboutInfo = () => {
                 className="links"
                 href="https://www.facebook.com/RonaldReagan/about/?ref=page_internal"
                 target="_blank"
+                rel="noopener noreferrer"
               >
                 <FacebookIcon className="iconSvg" />
               </a>
@@ -56,6 +58,7 @@ const AboutInfo = () => {
                 className="links"
                 href="https://www.instagram.com/reaganfoundation"
                 target="_blank"
+                rel="noopener noreferrer"
               >
                 <InstagramIcon className="iconSvg" />
               </a>
@@ -63,6 +66,7 @@ const AboutInfo = () => {
                 className="links"
                 href="https://twitter.com/RonaldReagan/status/1436359255779590145"
                 target="_blank"
+                rel="noopener noreferrer"
               >
                 <TwitterIcon className="iconSvg" />
               </a>
