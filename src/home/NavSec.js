@@ -42,13 +42,13 @@ const NavSec = () => {
               <Link to="/">Start</Link>
             </NavItem>
             <NavItem>
-              <Link to="/portfolio">Republikanin</Link>
+              <Link to="/republikanin">Republikanin</Link>
             </NavItem>
             <NavItem>
-              <Link to="/setup">Prezydentura</Link>
+              <Link to="/prezydentura">Prezydentura</Link>
             </NavItem>
             <NavItem>
-              <Link to="/about-me">RWR</Link>
+              <Link to="/rwr">RWR</Link>
             </NavItem>
           </Nav>
         </Collapse>

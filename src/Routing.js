@@ -13,9 +13,9 @@ function Routing() {
     <Router>
       <Switch>
         <Route path="/" exact component={HomeMain} />
-        <Route path="/portfolio" component={Portfolio} />
-        <Route path="/setup" component={Setup} />
-        <Route path="/about-me" component={About} />
+        <Route path="/republikanin" component={Portfolio} />
+        <Route path="/prezydentura" component={Setup} />
+        <Route path="/rwr" component={About} />
       </Switch>
     </Router>
   );
